@@ -14,4 +14,5 @@ Install angular globally.
 npm i -g @angular/cli
 ```
 
-Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths] (https://i.stack.imgur.com/9l6FI.png)
+Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to 
+[paths] (https://i.stack.imgur.com/9l6FI.png)

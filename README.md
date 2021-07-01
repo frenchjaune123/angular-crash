@@ -18,4 +18,4 @@ Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm",
 ## Remember!
 Inner folder holds git data!
 
-You need the right version of Node, you hermit!
+You need the [right](https://unpkg.com/browse/@angular/core@12.1.1/package.json) version of Node, you hermit! (Under "engines")

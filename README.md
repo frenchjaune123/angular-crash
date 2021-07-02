@@ -4,7 +4,7 @@ A tutorial to practice using AngularJS, even though it will be deprecated by Dec
 Install NodeJS 
 https://nodejs.org/en/download/
 
-Install npm globally
+Install npm globally.
 ```bash
 npm install -g npm
 ```
@@ -14,8 +14,8 @@ Install angular globally.
 npm i -g @angular/cli
 ```
 
-Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths](https://i.stack.imgur.com/9l6FI.png)
+Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths](https://i.stack.imgur.com/9l6FI.png).
 ## Remember!
 Inner folder holds git data!
 
-You need the [right](https://unpkg.com/browse/@angular/core@12.1.1/package.json) version of Node, you hermit! (Under "engines")
+You need the [right](https://unpkg.com/browse/@angular/core@12.1.1/package.json) version of Node, you hermit! (Under "engines").

@@ -1,10 +1,10 @@
 # Angular-Crash
 A tutorial to practice using AngularJS, even though it will be deprecated by December 2021. :(
 ## Setup
-* Install NodeJS 
+1. Install NodeJS 
 https://nodejs.org/en/download/
 
-* Install npm globally.
+1. Install npm globally.
 ```bash
 npm install -g npm
 ```

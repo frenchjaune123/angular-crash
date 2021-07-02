@@ -1,27 +1,26 @@
 # Angular-Crash
 A tutorial to practice using AngularJS, even though it will be deprecated by December 2021. :(
 ## Setup
-1. Install NodeJS 
-https://nodejs.org/en/download/
+Install [NodeJS](https://nodejs.org/en/download/)
 
-1. Install npm globally.
+Install npm globally.
 ```bash
 npm install -g npm
 ```
 
-1. Install angular globally.
+Install angular globally.
 ```bash
 npm i -g @angular/cli
 ```
 
-1. Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths](https://i.stack.imgur.com/9l6FI.png).
+Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths](https://i.stack.imgur.com/9l6FI.png).
 
-1. Run this command to launch a server on localhost:4200.
+Run this command to launch a server on localhost:4200.
 ```bash
 ng serve
 ```
 
 ## Remember!
-* Outer folder holds git data, inner folder holds angular data!
+Outer folder holds git data, inner folder holds angular data!
 
-* You need the [right](https://unpkg.com/browse/@angular/core@12.1.1/package.json) version of Node, you hermit! (Under "engines").
+You need the [right](https://unpkg.com/browse/@angular/core@12.1.1/package.json) version of Node, you hermit! (Under "engines").

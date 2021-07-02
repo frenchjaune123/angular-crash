@@ -15,6 +15,7 @@ npm i -g @angular/cli
 ```
 
 Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths](https://i.stack.imgur.com/9l6FI.png).
+
 Run this command to launch a server on localhost:4200.
 ```bash
 ng serve

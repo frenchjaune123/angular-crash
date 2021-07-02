@@ -9,14 +9,14 @@ https://nodejs.org/en/download/
 npm install -g npm
 ```
 
-* Install angular globally.
+1. Install angular globally.
 ```bash
 npm i -g @angular/cli
 ```
 
-* Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths](https://i.stack.imgur.com/9l6FI.png).
+1. Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths](https://i.stack.imgur.com/9l6FI.png).
 
-* Run this command to launch a server on localhost:4200.
+1. Run this command to launch a server on localhost:4200.
 ```bash
 ng serve
 ```

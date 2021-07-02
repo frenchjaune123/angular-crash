@@ -15,7 +15,12 @@ npm i -g @angular/cli
 ```
 
 Under "Environment Variables" --> "System Variables", add "@angular/cli", "npm", and "nodejs" to [paths](https://i.stack.imgur.com/9l6FI.png).
+Run this command to launch a server on localhost:4200.
+```bash
+ng serve
+```
+
 ## Remember!
-Inner folder holds git data!
+Outer folder holds git data, inner folder holds angular data!
 
 You need the [right](https://unpkg.com/browse/@angular/core@12.1.1/package.json) version of Node, you hermit! (Under "engines").

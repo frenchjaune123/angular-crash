@@ -24,3 +24,5 @@ ng serve
 Outer folder holds git data, inner folder holds Angular data!
 
 You need the [right](https://unpkg.com/browse/@angular/core@12.1.1/package.json) version of Node, you hermit! (Under "engines").
+
+I have edited the package.json and the angular.json files so that the project runs on Angular 11.x instead of 12.x. It seems Angular 12.x implemented a Strict Property Initialization compiler check. While I know how to workaround this property for primitives, until I can workaround the compiler check for classes, I think I will have to stick with Angular 11.x.

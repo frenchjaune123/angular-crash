@@ -21,6 +21,6 @@ ng serve
 ```
 
 ## Remember!
-Outer folder holds git data, inner folder holds angular data!
+Outer folder holds git data, inner folder holds Angular data!
 
 You need the [right](https://unpkg.com/browse/@angular/core@12.1.1/package.json) version of Node, you hermit! (Under "engines").
